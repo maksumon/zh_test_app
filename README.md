@@ -1,5 +1,5 @@
 # Simple React Native App with TypeScript
-To run the app:
+To compile the app:
   - Download the source
   - Navigate to the downloaded directoy in terminal
   - Run `yarn install`, wait for all dependencies to install
