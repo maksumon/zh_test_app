@@ -1,1 +1,1 @@
-# zh_test_app
+# Simple React Native App with TypeScript
